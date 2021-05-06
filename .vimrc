@@ -105,7 +105,7 @@ let g:rainbow_active = 1
 
 " powerline
 " powerline was installed globally using pip
-set rtp+=/Users/Govind/opt/anaconda3/lib/python3.8/site-packages/powerline/bindings/vim
+set rtp+=$HOME/opt/anaconda3/lib/python3.8/site-packages/powerline/bindings/vim
 set laststatus=2
 set t_Co=256
 
